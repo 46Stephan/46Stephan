@@ -1,4 +1,10 @@
-# Hi guys 🤟
+# Hi, nice to see you 🤟
+
+😎 I'm Stephan, <br>
+📚 student of Fullstack developer <br>
+🎓 graduated in Public Administration <br>
+🏠 living in Ouro Branco - MG, Brazil <br>
+ <br>
 
 <div align="center">
   <a href="https://github.com/46Stephan">
