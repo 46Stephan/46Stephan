@@ -4,7 +4,7 @@
 📚 student of Fullstack developer <br>
 🎓 graduated in Public Administration <br>
 🏠 living in Ouro Branco - MG <br>
-🇧🇷  Brazil <br>
+🇧🇷   Brazil <br>
  <br>
 
 <div align="center">
