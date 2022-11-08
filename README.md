@@ -1,8 +1,11 @@
 # Hi, nice to see you 🤟
 
-😎 I'm Stephan, <br>
+😎 I'm Stephan Costa, <br>
 📚 student of Fullstack developer <br>
 🎓 graduated in Public Administration <br>
+🎱 my hobbies are: physical activity, meditate, watch movies, listen to music, play american football and basketball, practice extreme sports, among others!
+⌚ professional experiences: Operations Assistant (2021/2022), Administrative assistant (2020/2021), Storekeeper (2013/2015) and Logistics Assistant (2010/2013) <br>
+📗 I'm currently studying HTML (frontend).
 🏠 living in Brazil <br>
  <br>
 
