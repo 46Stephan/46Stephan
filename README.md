@@ -31,4 +31,3 @@
   <a href="https://www.linkedin.com/in/stephan-costa-291715196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?46Stephan=page.id&left_color=green&right_color=red)
