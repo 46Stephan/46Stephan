@@ -2,9 +2,9 @@
 
 😎 I'm Stephan Costa, <br>
 📚 student of Fullstack developer. I'm currently studying HTML,CSS and Javascript (frontend). <br>
-🎓 graduated in Public Administration <br>
+🎓 graduated in Public Administration. <br>
 🎱 my hobbies are: physical activity, meditate, watch movies, listen to music, play american football and basketball, practice extreme sports, among others! <br>
-🏠 living in Brazil <br>
+🏠 living in Brazil! <br>
  <br>
 
 <div align="center">
