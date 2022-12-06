@@ -1,4 +1,4 @@
-# Hi, nice to see you 🤟
+<div aligh="center">Hi, nice to see you 🤟
 
 😎 I'm Stephan Costa, <br>
 📚 student of Fullstack developer. I'm currently studying HTML,CSS and Javascript (frontend). <br>
@@ -6,6 +6,7 @@
 🎱 my hobbies are: physical activity, meditate, watch movies, listen to music, play american football and basketball, practice extreme sports, among others! <br>
 🏠 living in Brazil! <br>
  <br>
+</div>
 
 <div align="center">
   <a href="https://github.com/46Stephan">
