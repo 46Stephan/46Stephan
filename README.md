@@ -14,7 +14,7 @@
 </div>
 <div align = "center">
 <a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizKuriki&theme=hacker"/> 
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizKuriki&theme=hacker"/> 
 </div>
 
 <div align="center"><div style="display: inline_block"><br>
