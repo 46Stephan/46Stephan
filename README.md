@@ -12,6 +12,10 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=46Stephan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=46Stephan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<div align = "center">
+<a href="https://git.io/streak-stats">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizKuriki&theme=hacker"/> 
+</div>
 
 <div align="center"><div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
