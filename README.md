@@ -2,7 +2,7 @@
 
 😎 I'm Stephan Costa, <br>
 📚 student of Fullstack developer. I'm currently studying HTML5,CSS, Javascript, bootstrap, TypeScript and ReactJS. <br>
-🎱 my hobbies are: physical activity, meditate, watch movies, listen to music, play american football and basketball, practice extreme sports, among others! <br>
+🎱 my hobbies are: physical activity, yoga, meditate, watch movies, listen to music, play american football and basketball, practice extreme sports, among others! <br>
 🏠 living in Brazil! <br>
  <br>
 </div>
