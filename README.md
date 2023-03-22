@@ -1,7 +1,7 @@
 <div aligh="center">Hi, nice to see you 🤟
 
 😎 I'm Stephan Costa, <br>
-📚 student of Fullstack developer. I'm currently studying (HTML5, CSS, Javascript), bootstrap, TypeScript, NodeJS, ReactJS. <br>
+📚 student of Fullstack developer. I'm currently studying HTML5, CSS, Javascript, bootstrap, TypeScript, NodeJS and ReactJS. <br>
 🎱 my hobbies are: physical activity, yoga, meditate, watch movies, listen to music, play american football and basketball, practice extreme sports, among others! <br>
 🏠 living in Brazil! <br>
  <br>
