@@ -1,11 +1,11 @@
 <div aligh="center">Hi, nice to see you 🤟
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
 i'm Stephàn Costa, <br>
 student of Fullstack developer. I'm currently studying - Front End with TypeScript, NodeJS and ReactJS. <br>
 my hobbies are: physical activity, yoga, meditate, watch movies, listen to music, play american football and basketball, practice extreme sports, among others! <br>
 living in Brazil! <br>
  <br>
-</div>
+ </div>
 
 <div align="center">
   <a href="https://github.com/46Stephan">
