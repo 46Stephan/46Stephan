@@ -1,7 +1,7 @@
 <div aligh="center">Hi, nice to see you 🤟<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
 i'm Stephàn Costa, <br>
-student of Fullstack developer. I'm currently studying - Front End with TypeScript, NodeJS and ReactJS. <br>
+student of Fullstack developer. I'm currently studying - Front End with TypeScript, NodeJS and ReactJS! <br>
  <br>
  </div>
 
